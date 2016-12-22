@@ -1,4 +1,4 @@
-### My endeavours in signal processing using numpy/scipy.
+### Digital signal processing using numpy/scipy.
 
 * DSP basics: Exponential signals, FFT, STFT, Convolution, Gibbs phenomenon, Filter design.
 
